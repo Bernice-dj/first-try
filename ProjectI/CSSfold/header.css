@@ -45,3 +45,6 @@ header{
     border-radius: 4px;
     box-shadow: -2px 2px 5px rgba(0, 0, 0, 0.1);
 }
+.nav-link:hover{
+    background-color: #ccd187;
+}
